@@ -1,0 +1,25 @@
+{
+  "interviewFlow": {
+    "positionName": "Desarrollador Frontend Senior",
+    "interviewFlow": {
+      "interviewSteps": [
+        {
+          "id": 1,
+          "name": "CV Review"
+        },
+        {
+          "id": 2,
+          "name": "Phone Screening"
+        },
+        {
+          "id": 3,
+          "name": "Technical Interview"
+        },
+        {
+          "id": 4,
+          "name": "Final Decision"
+        }
+      ]
+    }
+  }
+} 

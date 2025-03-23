@@ -1,0 +1,30 @@
+[
+  {
+    "candidateId": 1,
+    "fullName": "Juan Pérez",
+    "averageScore": 3,
+    "applicationId": 101,
+    "currentInterviewStep": "CV Review"
+  },
+  {
+    "candidateId": 2,
+    "fullName": "María López",
+    "averageScore": 4,
+    "applicationId": 102,
+    "currentInterviewStep": "Phone Screening"
+  },
+  {
+    "candidateId": 3,
+    "fullName": "Carlos Rodríguez",
+    "averageScore": 5,
+    "applicationId": 103,
+    "currentInterviewStep": "Technical Interview"
+  },
+  {
+    "candidateId": 4,
+    "fullName": "Ana Martínez",
+    "averageScore": 2,
+    "applicationId": 104,
+    "currentInterviewStep": "Final Decision"
+  }
+] 
